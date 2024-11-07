@@ -58,4 +58,4 @@ Your number of guesses: 3
 
 ## Author
 
-Paras
+Paras Jain
